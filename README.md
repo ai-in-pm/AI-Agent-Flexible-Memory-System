@@ -21,7 +21,7 @@ A flexible and modular memory system designed for AI agents, supporting both bas
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-agent-flexible-memory-system.git
+git clone https://github.com/ai-in-pm/AI-Agent-Flexible-Memory-System.git
 cd ai-agent-flexible-memory-system
 ```
 
