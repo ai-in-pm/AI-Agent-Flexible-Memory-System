@@ -1,0 +1,16 @@
+{
+  "timestamp": "2024-12-25T10:38:50.905057",
+  "demonstrations": {
+    "basic_operations": {
+      "success": false,
+      "error": "LLMConfig.__init__() got an unexpected keyword argument 'model'",
+      "timestamp": "2024-12-25T10:38:50.905057"
+    },
+    "multi_modal_operations": {
+      "success": false,
+      "error": "LLMConfig.__init__() got an unexpected keyword argument 'model'",
+      "timestamp": "2024-12-25T10:38:50.905581"
+    }
+  },
+  "overall_success": false
+}

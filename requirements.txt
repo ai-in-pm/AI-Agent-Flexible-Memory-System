@@ -1,0 +1,15 @@
+# Core Dependencies
+numpy>=1.24.0
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Database Dependencies
+psycopg2-binary>=2.9.9  # PostgreSQL
+pymongo>=4.6.0  # MongoDB
+
+# LLM Provider Dependencies
+openai>=1.3.0  # OpenAI
+
+# Testing Dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0

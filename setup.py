@@ -1,0 +1,30 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="memory_system",
+    version="0.1.0",
+    packages=find_packages(),
+    install_requires=[
+        "numpy>=1.24.0",
+        "faiss-cpu>=1.7.4",
+        "pydantic>=2.5.0",
+        "python-dotenv>=1.0.0",
+        "sentence-transformers>=2.2.2",
+        "psycopg2-binary>=2.9.9",
+        "pymongo>=4.6.0",
+        "redis>=5.0.1",
+        "elasticsearch>=8.11.0",
+        "openai>=1.3.0",
+        "anthropic>=0.7.0",
+        "google-cloud-aiplatform>=1.36.0",
+        "cohere>=4.37",
+        "ai21>=1.0.3",
+        "together>=0.2.8",
+        "huggingface-hub>=0.19.0",
+        "groq>=0.3.0",
+        "torch>=2.1.0",
+        "transformers>=4.35.0",
+        "tiktoken>=0.5.0"
+    ],
+    python_requires=">=3.8",
+)

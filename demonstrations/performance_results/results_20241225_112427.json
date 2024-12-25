@@ -1,0 +1,16 @@
+{
+  "timestamp": "2024-12-25T11:24:26.769492",
+  "demonstrations": {
+    "basic_operations": {
+      "success": true,
+      "duration": 0.1608433723449707,
+      "timestamp": "2024-12-25T11:24:26.930335"
+    },
+    "multi_modal_operations": {
+      "success": true,
+      "duration": 0.10474777221679688,
+      "timestamp": "2024-12-25T11:24:27.035083"
+    }
+  },
+  "overall_success": true
+}

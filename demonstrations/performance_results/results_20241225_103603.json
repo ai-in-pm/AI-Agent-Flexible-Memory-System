@@ -1,0 +1,16 @@
+{
+  "timestamp": "2024-12-25T10:36:03.198657",
+  "demonstrations": {
+    "basic_operations": {
+      "success": false,
+      "error": "Wrong number or type of arguments for overloaded function 'new_IndexFlatL2'.\n  Possible C/C++ prototypes are:\n    faiss::IndexFlatL2::IndexFlatL2(faiss::idx_t)\n    faiss::IndexFlatL2::IndexFlatL2()\n",
+      "timestamp": "2024-12-25T10:36:03.199153"
+    },
+    "multi_modal_operations": {
+      "success": false,
+      "error": "Wrong number or type of arguments for overloaded function 'new_IndexFlatL2'.\n  Possible C/C++ prototypes are:\n    faiss::IndexFlatL2::IndexFlatL2(faiss::idx_t)\n    faiss::IndexFlatL2::IndexFlatL2()\n",
+      "timestamp": "2024-12-25T10:36:03.199663"
+    }
+  },
+  "overall_success": false
+}

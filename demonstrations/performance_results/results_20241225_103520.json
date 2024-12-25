@@ -1,0 +1,16 @@
+{
+  "timestamp": "2024-12-25T10:35:20.992821",
+  "demonstrations": {
+    "basic_operations": {
+      "success": false,
+      "error": "EmbeddingGenerator.__init__() got an unexpected keyword argument 'model_name'",
+      "timestamp": "2024-12-25T10:35:20.993624"
+    },
+    "multi_modal_operations": {
+      "success": false,
+      "error": "EmbeddingGenerator.__init__() got an unexpected keyword argument 'model_name'",
+      "timestamp": "2024-12-25T10:35:20.994132"
+    }
+  },
+  "overall_success": false
+}

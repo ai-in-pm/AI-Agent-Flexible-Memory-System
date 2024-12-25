@@ -1,0 +1,16 @@
+{
+  "timestamp": "2024-12-25T10:31:37.411395",
+  "demonstrations": {
+    "basic_operations": {
+      "success": false,
+      "duration": 3.291250705718994,
+      "timestamp": "2024-12-25T10:31:40.702645"
+    },
+    "multi_modal_operations": {
+      "success": false,
+      "error": "'charmap' codec can't encode character '\\u274c' in position 0: character maps to <undefined>",
+      "timestamp": "2024-12-25T10:31:44.138767"
+    }
+  },
+  "overall_success": false
+}
